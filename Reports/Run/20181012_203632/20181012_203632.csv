@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Run,,,2018-10-12 20:36:36,2018-10-12 20:36:38,2.486s,FAILED
+,,,,,,
+Test Cases/MyProject/First,,,2018-10-12 20:36:36,2018-10-12 20:36:38,1.606s,FAILED
+"Statement - verfies = CustomKeywords.apps.Login.Log(url, username, password)",,,2018-10-12 20:36:37,2018-10-12 20:36:38,0.688s,FAILED

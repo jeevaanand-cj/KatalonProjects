@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Run</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-10-16T16:53:08</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>a6946fe3-d691-4d6e-9099-b69d35cbfb59</testSuiteGuid>
+   <testCaseLink>
+      <guid>1741f390-7379-4f4d-a694-932b8bda09f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MyProject/First</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fbc54ec1-e1de-497c-964a-d9807fa284a3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Mail/Veification</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fbc54ec1-e1de-497c-964a-d9807fa284a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>7e1c4e08-bbf8-4c3e-8cf6-ad3659258cde</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fbc54ec1-e1de-497c-964a-d9807fa284a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>18c3004a-cfc0-42db-9192-ab445636f284</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fbc54ec1-e1de-497c-964a-d9807fa284a3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>0cdcc1ff-086e-40a0-96c7-44ef7869efed</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

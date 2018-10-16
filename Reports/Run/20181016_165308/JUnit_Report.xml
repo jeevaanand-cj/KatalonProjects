@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Run" time="117" tests="1" failures="0" errors="0">
+   <testsuite name="Run" tests="1" failures="0" errors="0" time="117" timestamp="2018-10-16 16:53:17" hostname="admin - admin-ifc" id="Test Suites/Run">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\admin\\Katalon Studio\\DemoProjects\\Reports\\Run\\20181016_165308"/>
+         <property name="logFiles" value="C:\\Users\\admin\\Katalon Studio\\DemoProjects\\Reports\\Run\\20181016_165308\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="admin - admin-ifc"/>
+         <property name="os" value="Windows 7 32bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="192.168.25.6"/>
+         <property name="sessionId" value="df7ae6de4d234b1204429d1999a5b94d"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/MyProject/First" classname="Test Cases/MyProject/First" status="PASSED">
+         <system-out><![CDATA[2018-10-16 16:53:18 - [TEST_CASE][PASSED] - Test Cases/MyProject/First: Test Cases/MyProject/First
+
+2018-10-16 16:53:19 - [TEST_STEP][PASSED] - Statement - verfies = CustomKeywords.apps.Login.Logins(url, username, password): apps.Login.Logins is PASSED
+
+2018-10-16 16:53:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-16 16:54:19 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin' successfully
+
+2018-10-16 16:54:20 - [MESSAGE][PASSED] - Current window maximized
+
+2018-10-16 16:54:24 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-16 16:54:25 - [MESSAGE][PASSED] - Text 'dineshr@kctechservices.com' is set on object 'Object Repository/Logins/UserName'
+
+2018-10-16 16:54:28 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-16 16:54:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Logins/DeliveryQuality' is clicked on
+
+2018-10-16 16:54:32 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-10-16 16:54:33 - [MESSAGE][PASSED] - Text 'Dinesh@123' is set on object 'Object Repository/Logins/Password'
+
+2018-10-16 16:54:36 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-10-16 16:54:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Logins/DeliveryQuality' is clicked on
+
+2018-10-16 16:54:56 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2018-10-16 16:54:56 - [MESSAGE][PASSED] - apps.Login.Logins is PASSED
+
+2018-10-16 16:54:56 - [TEST_STEP][PASSED] - Statement - println(verfies): null
+
+2018-10-16 16:54:56 - [TEST_STEP][PASSED] - Statement - verfiess = CustomKeywords.apps.Login.Logout(): apps.Login.Logout is PASSED
+
+2018-10-16 16:54:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Logins/Logout' is clicked on
+
+2018-10-16 16:54:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-10-16 16:55:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Logins/SignOut' is clicked on
+
+2018-10-16 16:55:14 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2018-10-16 16:55:14 - [MESSAGE][PASSED] - Browser is closed
+
+2018-10-16 16:55:14 - [MESSAGE][PASSED] - apps.Login.Logout is PASSED
+
+2018-10-16 16:55:14 - [TEST_STEP][PASSED] - Statement - println(verfiess): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-16 16:53:17 - [TEST_SUITE][PASSED] - Run: Test Cases/MyProject/First]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>First</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efae30fa-4e27-4f81-b525-7d3e99c05c3e</testCaseGuid>
+   <variable>
+      <defaultValue>'https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin'</defaultValue>
+      <description></description>
+      <id>7e1c4e08-bbf8-4c3e-8cf6-ad3659258cde</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'dineshr@kctechservices.com'</defaultValue>
+      <description></description>
+      <id>18c3004a-cfc0-42db-9192-ab445636f284</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dinesh@123'</defaultValue>
+      <description></description>
+      <id>0cdcc1ff-086e-40a0-96c7-44ef7869efed</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

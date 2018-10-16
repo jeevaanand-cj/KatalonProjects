@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Run,Chrome 69.0.3497.100,,2018-10-16 16:53:17,2018-10-16 16:55:15,1m - 57.301s,PASSED
+,,,,,,
+Test Cases/MyProject/First,Chrome 69.0.3497.100,,2018-10-16 16:53:18,2018-10-16 16:55:14,1m - 55.911s,PASSED
+"Statement - verfies = CustomKeywords.apps.Login.Logins(url, username, password)",Chrome 69.0.3497.100,,2018-10-16 16:53:19,2018-10-16 16:54:56,1m - 37.015s,PASSED
+Statement - println(verfies),Chrome 69.0.3497.100,,2018-10-16 16:54:56,2018-10-16 16:54:56,0.031s,PASSED
+Statement - verfiess = CustomKeywords.apps.Login.Logout(),Chrome 69.0.3497.100,,2018-10-16 16:54:56,2018-10-16 16:55:14,17.991s,PASSED
+Statement - println(verfiess),Chrome 69.0.3497.100,,2018-10-16 16:55:14,2018-10-16 16:55:14,0.002s,PASSED

@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Run,Chrome 69.0.3497.100,,2018-10-12 20:48:24,2018-10-12 20:48:57,33.509s,PASSED
+,,,,,,
+Test Cases/MyProject/First,Chrome 69.0.3497.100,,2018-10-12 20:48:25,2018-10-12 20:48:56,31.611s,PASSED
+"Statement - verfies = CustomKeywords.apps.Login.Log(url, username, password)",Chrome 69.0.3497.100,,2018-10-12 20:48:26,2018-10-12 20:48:56,30.687s,PASSED
+Statement - println(verfies),Chrome 69.0.3497.100,,2018-10-12 20:48:56,2018-10-12 20:48:56,0.021s,PASSED
